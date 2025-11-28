@@ -1,0 +1,9 @@
+Rolling Stone,J.K. Rowling,Sci-FI,500,N/A,1200,printedBook
+Hobbit,R.Tolkien,Drama,700,90,N/A,audioBook
+Prejudice,J.Austen,Sci-FI,0,N/A,11,printedBook
+Rolling Stone,J.K. Rowling,Sci-FI,500,N/A,1200,printedBook
+Hobbit,R.Tolkien,Romance,700,90,N/A,audioBook
+Prejudice,J.Austen,Sci-FI,0,N/A,11,printedBook
+Rolling Stone,J.K. Rowling,Romance,500,N/A,1200,printedBook
+Hobbit,R.Tolkien,Anime,700,90,N/A,audioBook
+Fahrenheit 451,Ray Bradbury,Sci-FI,1560,N/A,156,printedBook
